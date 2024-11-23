@@ -164,3 +164,23 @@ a:hover
 {
   color: #064244;
 }
+@media (max-width:668px){
+
+  .skill-row
+        {
+        width: 100%;
+        text-align: center;
+        line-height: 2;
+        margin:100px auto 100px auto;
+       
+        opacity: 0;
+        }
+        .image1,.image2
+        {
+          width: 100%;
+        }
+        .intro,.contact_message
+        {
+          width: 100%;
+        }
+}
